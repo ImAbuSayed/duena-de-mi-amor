@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/duena-de-mi-amor/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Dueña de mi amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/duena-de-mi-amor/) |
+| **Get License** | [Secure Licensing Rights for Dueña de mi amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/duena-de-mi-amor/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, tú eres la reina de esta noche en la ciudad
+> Con ese flow salvaje, shorty, tú eres la verdad
+> Me tienes adicto a tu perfume y tu caminar
+> Dueña de mi amor, tonight we're gonna fly so far
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
