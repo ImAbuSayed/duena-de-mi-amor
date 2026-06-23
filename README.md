@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/duena-de-mi-amor/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Dueña de mi amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/duena-de-mi-amor/) |
+| **Get License** | [Music Rights & Licensing for Dueña de mi amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/duena-de-mi-amor/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `e721161672d5c0e7b7c626b012e21e8d16f523d7e75d35b5f19c1eb3de2d33d8` |
 | **Timestamp** | June 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

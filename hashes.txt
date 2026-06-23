@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dueña de mi amor
+
+This log tracks the cryptographic history and versioning for the song **Dueña de mi amor** (duena-de-mi-amor).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T11:55:57.014956 | `v1` | `e721161672d5c0e7b7c626b012e21e8d16f523d7e75d35b5f19c1eb3de2d33d8` | `3b092546842df558a5072a0c818d18df6ea7fbd796dac941b40b3962fdee2bd9` | `2026-06-23_duena-de-mi-amor-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
